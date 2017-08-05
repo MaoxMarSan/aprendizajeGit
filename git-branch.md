@@ -11,3 +11,5 @@ Puedo crear todas las ramas que quiera y/o necesite.
 
 Las ramas nuevas que se crean apuntan al commit actual.
 un ser sin estudio es un ser incompleto
+
+un ser sin estudio es un ser incompleto
