@@ -7,4 +7,4 @@ Si no hemos hecho cambios desde la última confirmación entonces la instantáne
 ### git commit -a -m "mensaje del commit"
 Con este comando podemos saltar el área de preparación.
 
-esto es paciencia 
+esto es un alerta "creando conflicto"
