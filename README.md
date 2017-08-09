@@ -21,4 +21,4 @@ git config --list
 
 Esta línea fue creada en la rama master.
 
-Esto es una modificacion de prueba.
+Esto es una modificacion.
